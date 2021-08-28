@@ -40,7 +40,7 @@ Next, I ran a [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/
 
 Lastly, I ran an [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn) model from the XGBoost library, which creates machine learning models using optimized gradient boosting algorithms. This model performed almost as well as our random forest model, but falls slightly short with an average accuracy score of 0.87. 
 
-![XGBoost confusion matrix](images/xgb_confusion_matrix)
+![XGBoost confusion matrix](images/xgb_confusion_matrix.png)
 
 ## Conclusion
 Our random forest model ended up performing the best out of all our models, scoring with an accuracy of 0.87. However, all our models performed fairly well -- even our weakest model, the multinomial Naive Bayes model, didn't score much lower than our best model. As this baseline model serves as a proof of concept, we can further expand on this model using more tweet data -- and possibly other forms of customer feedback such as surveys and comments -- to come up with more ideas to improve our services and maintain and expand our consumer base.
