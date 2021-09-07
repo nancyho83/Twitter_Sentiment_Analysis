@@ -58,6 +58,13 @@ For any additional questions, please contact **Nancy Ho** at [nancyho83@yahoo.co
 
 
 ## Sources
+Dataset: [Brands and Product Emotions - dataset by crowdflower | data.world](https://data.world/crowdflower/brands-and-product-emotions)
+
+Libraries used: [scikit-learn](https://scikit-learn.org/stable/index.html), [imbalanced-learn](https://imbalanced-learn.org/stable/index.html), [NLTK](https://www.nltk.org/)
+
+Information about sentiment analysis and its importance for businesses:
+- [MonkeyLearn, Sentiment Analysis: A Definitive Guide](https://monkeylearn.com/sentiment-analysis/)
+- [Leveraging on NLP to gain insights in Social Media, News & Broadcasting by George Regkas](https://towardsdatascience.com/leveraging-on-nlp-to-gain-insights-in-social-media-news-broadcasting-ca89752ef638)
 
 
 ## Repository Structure
